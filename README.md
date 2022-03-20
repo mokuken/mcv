@@ -2,7 +2,7 @@
 
 mcv is a terminal-based file rename utility that lets you easily mass-rename files using Micro.
 
-original script https://github.com/thameera/vimv/edit/master/README.md
+original script https://github.com/thameera/vimv
 
 ## Usage
 
